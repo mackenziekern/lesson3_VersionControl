@@ -13,6 +13,9 @@ Web Application Development
 ## Project Description:
 (In this project, we're learning how to back up our files to local and remote repositories. We are signing up for Git Hub and connecting that account to our Cloud9 account. )
 
+## View project
+https://mackenziekern.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. (Git doesn't save files more than once if it has already been saved since it was changed last.)
 2. (You have to use commands like git init, add ., and commit. )
